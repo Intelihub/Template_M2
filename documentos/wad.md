@@ -145,7 +145,7 @@ Critérios INVEST | *(Por que é Independente? Por que é Negociável? Por que �
 
 *Dica: edite a tabela verdade fora do markdown, para ter melhor controle*
 
-## 3.6. WebAPI e endpoints (sprint 3)
+## 3.6. WebAPI e endpoints (sprint 4)
 
 *Utilize um link para outra página de documentação contendo a descrição completa de cada endpoint. Ou descreva aqui cada endpoint criado para seu sistema.* 
 
